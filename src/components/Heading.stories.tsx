@@ -5,7 +5,7 @@ export default {
     title: 'Components/Heading',
     component: Heading,
     args: {
-        children: 'Lorem Ipsum', //texto padrao
+        children: 'Lorem Ipsum', 
         size: 'md',
     },
     argTypes: {
